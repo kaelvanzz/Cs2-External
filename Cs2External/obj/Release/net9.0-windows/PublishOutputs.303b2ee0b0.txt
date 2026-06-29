@@ -1,0 +1,5 @@
+C:\Users\user\AppData\Local\Temp\cs2b\Cs2External.exe
+C:\Users\user\AppData\Local\Temp\cs2b\Cs2External.dll
+C:\Users\user\AppData\Local\Temp\cs2b\Cs2External.deps.json
+C:\Users\user\AppData\Local\Temp\cs2b\Cs2External.runtimeconfig.json
+C:\Users\user\AppData\Local\Temp\cs2b\Cs2External.pdb

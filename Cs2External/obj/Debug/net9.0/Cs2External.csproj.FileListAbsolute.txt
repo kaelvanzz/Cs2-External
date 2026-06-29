@@ -1,0 +1,14 @@
+C:\Users\user\Documents\dlloutput\Cs2External\obj\Debug\net9.0\Cs2External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\dlloutput\Cs2External\obj\Debug\net9.0\Cs2External.AssemblyInfoInputs.cache
+C:\Users\user\Documents\dlloutput\Cs2External\obj\Debug\net9.0\Cs2External.AssemblyInfo.cs
+C:\Users\user\Documents\dlloutput\Cs2External\obj\Debug\net9.0\Cs2External.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\dlloutput\Cs2External\bin\Debug\net9.0\Cs2External.exe
+C:\Users\user\Documents\dlloutput\Cs2External\bin\Debug\net9.0\Cs2External.deps.json
+C:\Users\user\Documents\dlloutput\Cs2External\bin\Debug\net9.0\Cs2External.runtimeconfig.json
+C:\Users\user\Documents\dlloutput\Cs2External\bin\Debug\net9.0\Cs2External.dll
+C:\Users\user\Documents\dlloutput\Cs2External\bin\Debug\net9.0\Cs2External.pdb
+C:\Users\user\Documents\dlloutput\Cs2External\obj\Debug\net9.0\Cs2External.dll
+C:\Users\user\Documents\dlloutput\Cs2External\obj\Debug\net9.0\refint\Cs2External.dll
+C:\Users\user\Documents\dlloutput\Cs2External\obj\Debug\net9.0\Cs2External.pdb
+C:\Users\user\Documents\dlloutput\Cs2External\obj\Debug\net9.0\Cs2External.genruntimeconfig.cache
+C:\Users\user\Documents\dlloutput\Cs2External\obj\Debug\net9.0\ref\Cs2External.dll

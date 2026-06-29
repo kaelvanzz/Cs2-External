@@ -1,0 +1,1 @@
+C:\Users\user\Documents\dlloutput\Cs2External\bin\Release\net9.0\win-x64\publish\Cs2External.exe

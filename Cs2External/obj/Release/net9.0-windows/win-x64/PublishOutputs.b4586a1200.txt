@@ -1,0 +1,2 @@
+C:\Users\user\Documents\dlloutput\publish\Cs2External.pdb
+C:\Users\user\Documents\dlloutput\publish\Cs2External.exe
